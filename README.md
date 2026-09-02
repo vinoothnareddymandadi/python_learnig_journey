@@ -1,2 +1,2 @@
-# python_learnig_journey
+# python_learning_journey
 my python learning journey and practice programs
